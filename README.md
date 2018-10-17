@@ -1,4 +1,2 @@
 # ChinaSettingPageMatch
 contest
-
-test
